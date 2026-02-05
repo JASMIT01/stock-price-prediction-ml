@@ -1,0 +1,38 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (if you don't want to commit data)
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
